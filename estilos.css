@@ -1,0 +1,22 @@
+body{
+            font-family: sans-serif;
+            text-align: center;
+            background-color: rgba(8, 10, 41, 0.927);
+        }
+        input{
+            display: block;
+            margin: auto;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            box-shadow: 5px 5px 10px rgba(64, 79, 165, 0.747);
+            transition: all 0.3s ease;
+            color: #958f8f;
+            background-color: rgb(27, 38, 58);
+            text-align: center;
+        }
+
+        h1{
+            color: white;
+        }
